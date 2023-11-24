@@ -44,10 +44,11 @@
     display: inline-block;
 }
 footer{
-    position: absolute;
-    bottom: 0vh;
-    left: 0vh;
+    text-align: center;
+    position: fixed;
+    bottom: 0vw;
     background-color: rgb(124, 107, 85);
     width: 100vw;
     display: inline-flex;
+    background-color: black;
 }
