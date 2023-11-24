@@ -21,6 +21,15 @@ header{
     color: black;
     font-family: 'Courier New', Courier, monospace;
 }
+#click a{
+    text-decoration: none;
+    text-shadow: 2px 2px white;
+    color:rgb(0, 0, 0);
+    margin: 10px;
+    padding: 1px;
+    transition: .4s;
+    background-color: rgb(226, 199, 182);
+}
 .banner{
     font-family: 'Segoe UI', sans-serif;
     margin-top: 10vw;
