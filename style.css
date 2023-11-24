@@ -43,3 +43,11 @@
     height: 66px;
     display: inline-block;
 }
+footer{
+    position: absolute;
+    bottom: 0vh;
+    left: 0vh;
+    background-color: rgb(124, 107, 85);
+    width: 100vw;
+    display: inline-flex;
+}
