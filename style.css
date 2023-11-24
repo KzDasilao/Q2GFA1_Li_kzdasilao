@@ -28,7 +28,8 @@ header{
     margin: 10px;
     padding: 1px;
     transition: .4s;
-    background-color: rgb(226, 199, 182);
+    background-color: black);
+    color: white;
 }
 .banner{
     font-family: 'Segoe UI', sans-serif;
