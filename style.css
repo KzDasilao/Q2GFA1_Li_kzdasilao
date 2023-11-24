@@ -15,6 +15,12 @@ header{
     padding: 23px;
     justify-content: space-between;
 }
+#click{
+    background-color: antiquewhite;
+    padding: 5px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
 .banner{
     font-family: 'Segoe UI', sans-serif;
     margin-top: 10vw;
